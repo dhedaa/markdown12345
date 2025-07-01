@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec6acca1-10e2-498d-a724-8b459979cba6)# 제목
+# 제목
 ## 소제목
 ### 더 작은 제목
 
